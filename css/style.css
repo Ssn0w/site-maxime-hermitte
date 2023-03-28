@@ -1,1 +1,11 @@
-.rouge{color: red;}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+.banderole{
+    background-image: url(../img/banderole_blue_lock.jpeg);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+}
