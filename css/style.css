@@ -1,11 +1,23 @@
 html,body{
     margin: 0;
     padding: 0;
+   
 }
-
+.background{
+    background-color: #0027c4;
+}
 .banderole{
+   background-size: cover;
     background-image: url(../img/banderole_blue_lock.jpeg);
     height: 100vh;
     width: 100vw;
     background-repeat: no-repeat;
+}
+
+.mescartes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
