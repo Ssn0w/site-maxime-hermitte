@@ -1,0 +1,18 @@
+html,body{
+    background-color: #0027c4;
+    margin: 0;
+    padding: 0;
+    
+}
+.banderole{
+    background-size: cover;
+     background-image: url(../img/kunigamibanderol.png);
+     height: 100vh;
+     width: 100vw;
+     background-repeat: no-repeat;
+ }
+ .text-md-start{
+    text-align: justify;
+    margin: 5%;
+    background-color: darkgray;
+ }
